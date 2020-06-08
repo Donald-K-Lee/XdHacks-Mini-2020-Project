@@ -17,8 +17,8 @@ HTML
 <br />Flask-wtf
 <br />Flask-SQLAlchemy
 <br />Python DateTime
-<br />Pytz 
-<br />**Additional tools used:** <br />
+<br />Pytz <br />
+<br /> **Additional tools used:**<br />
 Figma - For creating the UI design 
 <br />Repl - For collaboration during the project
 <br />Google Slides - For creating our presentation
