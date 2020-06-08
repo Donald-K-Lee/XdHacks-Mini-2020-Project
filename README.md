@@ -22,5 +22,5 @@ HTML
 [Figma](https://www.figma.com/) - For creating the UI design 
 <br />[Repl](https://repl.it/) - For collaboration during the project
 <br />[Google Slides](https://www.google.ca/slides/about/) - For creating our presentation
-# Finding donors made easy
+
 
