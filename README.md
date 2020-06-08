@@ -19,9 +19,9 @@ HTML
 <br />Python DateTime
 <br />Pytz <br />
 <br /> **Additional tools used:**<br />
-Figma - For creating the UI design 
-<br />Repl - For collaboration during the project
-<br />Google Slides - For creating our presentation
+[Figma](https://www.figma.com/) - For creating the UI design 
+<br />[Repl](https://repl.it/) - For collaboration during the project
+<br />[Google Slides](https://www.google.ca/slides/about/) - For creating our presentation
 
 
 
