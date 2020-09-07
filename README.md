@@ -1,4 +1,4 @@
-# CarePackages4U [(2nd Place Project)](https://mini.xdhacks.com/van/xdhacks-covid)
+# XDHacks - COVID [(2nd Place Project)](https://mini.xdhacks.com/van/xdhacks-covid)
 # By Team Ambition
 ## **Members: Leo, Donald, Angela, and Victor**
 ## About
